@@ -9,7 +9,7 @@ gem 'rails', '~> 5.2.8', '>= 5.2.8.1'
 gem 'sqlite3'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
-gem 'devise-bootstrap-views'
+gem 'devise-bootstrap-views', '~> 1.0'
 gem 'jquery-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
